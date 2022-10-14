@@ -1,0 +1,7 @@
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDAppLiskovPrinciple\SOLIDAppLiskovPrinciple\bin\Debug\SOLIDAppLiskovPrinciple.exe.config
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDAppLiskovPrinciple\SOLIDAppLiskovPrinciple\bin\Debug\SOLIDAppLiskovPrinciple.exe
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDAppLiskovPrinciple\SOLIDAppLiskovPrinciple\bin\Debug\SOLIDAppLiskovPrinciple.pdb
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDAppLiskovPrinciple\SOLIDAppLiskovPrinciple\obj\Debug\SOLIDAppLiskovPrinciple.csproj.AssemblyReference.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDAppLiskovPrinciple\SOLIDAppLiskovPrinciple\obj\Debug\SOLIDAppLiskovPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDAppLiskovPrinciple\SOLIDAppLiskovPrinciple\obj\Debug\SOLIDAppLiskovPrinciple.exe
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDAppLiskovPrinciple\SOLIDAppLiskovPrinciple\obj\Debug\SOLIDAppLiskovPrinciple.pdb

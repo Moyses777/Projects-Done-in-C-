@@ -1,0 +1,7 @@
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderPatternApp\BuilderPatternApp\bin\Debug\BuilderPatternApp.exe.config
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderPatternApp\BuilderPatternApp\bin\Debug\BuilderPatternApp.exe
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderPatternApp\BuilderPatternApp\bin\Debug\BuilderPatternApp.pdb
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderPatternApp\BuilderPatternApp\obj\Debug\BuilderPatternApp.csproj.AssemblyReference.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderPatternApp\BuilderPatternApp\obj\Debug\BuilderPatternApp.csproj.CoreCompileInputs.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderPatternApp\BuilderPatternApp\obj\Debug\BuilderPatternApp.exe
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderPatternApp\BuilderPatternApp\obj\Debug\BuilderPatternApp.pdb

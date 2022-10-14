@@ -1,0 +1,7 @@
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderHerenceInterfaces\BuilderHerenceInterfaces\bin\Debug\BuilderHerenceInterfaces.exe.config
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderHerenceInterfaces\BuilderHerenceInterfaces\bin\Debug\BuilderHerenceInterfaces.exe
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderHerenceInterfaces\BuilderHerenceInterfaces\bin\Debug\BuilderHerenceInterfaces.pdb
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderHerenceInterfaces\BuilderHerenceInterfaces\obj\Debug\BuilderHerenceInterfaces.csproj.AssemblyReference.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderHerenceInterfaces\BuilderHerenceInterfaces\obj\Debug\BuilderHerenceInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderHerenceInterfaces\BuilderHerenceInterfaces\obj\Debug\BuilderHerenceInterfaces.exe
+C:\Users\lmcamacho\source\repos\Design Patterns\BuilderHerenceInterfaces\BuilderHerenceInterfaces\obj\Debug\BuilderHerenceInterfaces.pdb

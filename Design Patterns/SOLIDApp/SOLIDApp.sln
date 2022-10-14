@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDApp", "SOLIDApp\SOLIDApp.csproj", "{4FAAC41A-C7E6-416F-B671-248D450A4E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FAAC41A-C7E6-416F-B671-248D450A4E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAAC41A-C7E6-416F-B671-248D450A4E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAAC41A-C7E6-416F-B671-248D450A4E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAAC41A-C7E6-416F-B671-248D450A4E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C532E6CD-B828-42B6-B983-A1DF0FC6BE8C}
+	EndGlobalSection
+EndGlobal

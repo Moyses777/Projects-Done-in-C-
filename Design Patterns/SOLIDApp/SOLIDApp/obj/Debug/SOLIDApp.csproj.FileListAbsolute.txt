@@ -1,0 +1,7 @@
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDApp\SOLIDApp\bin\Debug\SOLIDApp.exe.config
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDApp\SOLIDApp\bin\Debug\SOLIDApp.exe
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDApp\SOLIDApp\bin\Debug\SOLIDApp.pdb
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDApp\SOLIDApp\obj\Debug\SOLIDApp.csproj.AssemblyReference.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDApp\SOLIDApp\obj\Debug\SOLIDApp.csproj.CoreCompileInputs.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDApp\SOLIDApp\obj\Debug\SOLIDApp.exe
+C:\Users\lmcamacho\source\repos\Design Patterns\SOLIDApp\SOLIDApp\obj\Debug\SOLIDApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\lmcamacho\source\repos\InherenceExampleBuilderPattern\InherenceExampleBuilderPattern\bin\Debug\InherenceExampleBuilderPattern.exe.config
+C:\Users\lmcamacho\source\repos\InherenceExampleBuilderPattern\InherenceExampleBuilderPattern\bin\Debug\InherenceExampleBuilderPattern.exe
+C:\Users\lmcamacho\source\repos\InherenceExampleBuilderPattern\InherenceExampleBuilderPattern\bin\Debug\InherenceExampleBuilderPattern.pdb
+C:\Users\lmcamacho\source\repos\InherenceExampleBuilderPattern\InherenceExampleBuilderPattern\obj\Debug\InherenceExampleBuilderPattern.csproj.AssemblyReference.cache
+C:\Users\lmcamacho\source\repos\InherenceExampleBuilderPattern\InherenceExampleBuilderPattern\obj\Debug\InherenceExampleBuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\lmcamacho\source\repos\InherenceExampleBuilderPattern\InherenceExampleBuilderPattern\obj\Debug\InherenceExampleBuilderPattern.exe
+C:\Users\lmcamacho\source\repos\InherenceExampleBuilderPattern\InherenceExampleBuilderPattern\obj\Debug\InherenceExampleBuilderPattern.pdb

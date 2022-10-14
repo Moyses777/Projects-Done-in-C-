@@ -1,0 +1,10 @@
+C:\Users\lmcamacho\source\repos\Design Patterns\PizzaAppBuilderPattern\PizzaAppBuilderPattern\bin\Debug\PizzaAppBuilderPattern.exe.config
+C:\Users\lmcamacho\source\repos\Design Patterns\PizzaAppBuilderPattern\PizzaAppBuilderPattern\bin\Debug\PizzaAppBuilderPattern.exe
+C:\Users\lmcamacho\source\repos\Design Patterns\PizzaAppBuilderPattern\PizzaAppBuilderPattern\bin\Debug\PizzaAppBuilderPattern.pdb
+C:\Users\lmcamacho\source\repos\Design Patterns\PizzaAppBuilderPattern\PizzaAppBuilderPattern\obj\Debug\PizzaAppBuilderPattern.csproj.AssemblyReference.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\PizzaAppBuilderPattern\PizzaAppBuilderPattern\obj\Debug\PizzaAppBuilderPattern.Form1.resources
+C:\Users\lmcamacho\source\repos\Design Patterns\PizzaAppBuilderPattern\PizzaAppBuilderPattern\obj\Debug\PizzaAppBuilderPattern.Properties.Resources.resources
+C:\Users\lmcamacho\source\repos\Design Patterns\PizzaAppBuilderPattern\PizzaAppBuilderPattern\obj\Debug\PizzaAppBuilderPattern.csproj.GenerateResource.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\PizzaAppBuilderPattern\PizzaAppBuilderPattern\obj\Debug\PizzaAppBuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\lmcamacho\source\repos\Design Patterns\PizzaAppBuilderPattern\PizzaAppBuilderPattern\obj\Debug\PizzaAppBuilderPattern.exe
+C:\Users\lmcamacho\source\repos\Design Patterns\PizzaAppBuilderPattern\PizzaAppBuilderPattern\obj\Debug\PizzaAppBuilderPattern.pdb
